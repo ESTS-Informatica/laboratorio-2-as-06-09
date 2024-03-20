@@ -47,4 +47,5 @@ public class PropertyTest
        assertEquals("T3 Monte Belo",property1.getDescription());
        assertEquals(150000.0,property1.getPrice());
     }
+    
 }
